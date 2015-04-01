@@ -5,4 +5,4 @@ Code snippet
 ```
 ## Subheader
 
-And some * bold * text
+And some ***bold*** text
