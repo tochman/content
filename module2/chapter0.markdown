@@ -1,5 +1,7 @@
-# Adding and Updating 
+Foo [bar][].
 
- Written this in markup and updated using API but now I am updating it again... 
+Foo [bar](/url/ "Title with "quotes" inside").
 
-# And adding more markdown
+
+  [bar]: /url/ "Title with "quotes" inside"
+
